@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroid Belt Assault", "..\..\..\AppData\Local\Temp\Temp1_0669_Code.zip\0669_Code\Chapter05\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault.csproj", "{3C103C8E-7D92-42A3-97EC-44BF7F76E9E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroid Belt Assault", "..\..\..\Desktop\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault.csproj", "{3C103C8E-7D92-42A3-97EC-44BF7F76E9E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
